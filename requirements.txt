@@ -1,0 +1,5 @@
+pandas==0.23.3
+requests==2.21.0
+plotly==2.0.15
+Flask==0.12.4
+gunicorn==19.9.0
