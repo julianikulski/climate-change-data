@@ -8,10 +8,10 @@
 * [Licensing, Authors, Acknowledgements](#licensing)
 
 ## Installation
-The code requires Python versions of 3.* as well as Bootstrap 4.0, Flask
+The code requires Python versions of 3.* as well as Bootstrap 4.0, Flask.
 
 ## Project Motivation <a name="motivation"></a>
-![Screenshot of webapp](https://github.com/julianikulski/climate-change-data/tree/master/myapp/webapp.png)
+![Screenshot of webapp](https://github.com/julianikulski/climate-change-data/blob/master/myapp/static/img/webapp.PNG)
 
 
 ## File Description <a name="description"></a>
