@@ -16,6 +16,7 @@ In addition, for deployment the package gunicorn needs to be installed as well.
 This dashboard was developed to provide an overview of climate change related information in interactive
 graphs to allow the user to explore its different dimensions. Plotly was used to make the plots
 dynamic.
+
 ![Screenshot of webapp](https://github.com/julianikulski/climate-change-data/blob/master/myapp/static/img/webapp.PNG)
 
 ## File Description <a name="description"></a>
